@@ -1,0 +1,5 @@
+AuthCore GitHub Test #3
+Tier: rsa_lic
+User: GH_Test_3
+Status: ACTIVE
+HWID: ANY
