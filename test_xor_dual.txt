@@ -1,0 +1,5 @@
+AuthCore GitHub Test #8
+Tier: xor_dual
+User: GH_Test_8
+Status: ACTIVE
+HWID: ANY
