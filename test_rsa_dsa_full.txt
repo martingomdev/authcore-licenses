@@ -1,0 +1,5 @@
+AuthCore GitHub Test #7
+Tier: rsa_dsa_full
+User: GH_Test_7
+Status: ACTIVE
+HWID: ANY
