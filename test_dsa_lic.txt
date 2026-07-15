@@ -1,0 +1,5 @@
+AuthCore GitHub Test #5
+Tier: dsa_lic
+User: GH_Test_5
+Status: ACTIVE
+HWID: ANY
