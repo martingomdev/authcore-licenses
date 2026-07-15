@@ -1,0 +1,5 @@
+AuthCore GitHub Test #6
+Tier: dsa_hwid
+User: GH_Test_6
+Status: ACTIVE
+HWID: ANY
