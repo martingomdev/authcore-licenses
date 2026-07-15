@@ -1,0 +1,5 @@
+AuthCore GitHub Test #4
+Tier: rsa_hwid
+User: GH_Test_4
+Status: ACTIVE
+HWID: ANY
