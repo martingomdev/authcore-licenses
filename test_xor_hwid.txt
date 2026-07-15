@@ -1,0 +1,5 @@
+AuthCore GitHub Test #2
+Tier: xor_hwid
+User: GH_Test_2
+Status: ACTIVE
+HWID: ANY
