@@ -1,6 +1,0 @@
-# AuthCore-TEST10-F-20260819-100945
-Project: AuthCore RSA-DSA Ultimate Authentication & Obfuscation Pro
-Purpose: one-time real upload verification, then deleted
-User: test10F
-HostID: test10F-host
-DATA: {"mode": "real-upload-delete-test", "platform": "win32", "ts": "20260819-100945"}
