@@ -1,0 +1,5 @@
+User: User_5AC2BD
+HWID: ANY
+Status: ACTIVE
+Expiry: 2027-08-20
+DATA: User_5AC2BD:ANY:ACTIVE:2027-08-20:none
